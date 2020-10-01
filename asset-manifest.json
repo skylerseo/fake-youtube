@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fake-youtube/static/css/main.6358ba25.chunk.css",
-    "main.js": "/fake-youtube/static/js/main.3e2b7d70.chunk.js",
-    "main.js.map": "/fake-youtube/static/js/main.3e2b7d70.chunk.js.map",
-    "runtime-main.js": "/fake-youtube/static/js/runtime-main.b363be39.js",
-    "runtime-main.js.map": "/fake-youtube/static/js/runtime-main.b363be39.js.map",
-    "static/js/2.59b0d8aa.chunk.js": "/fake-youtube/static/js/2.59b0d8aa.chunk.js",
-    "static/js/2.59b0d8aa.chunk.js.map": "/fake-youtube/static/js/2.59b0d8aa.chunk.js.map",
-    "index.html": "/fake-youtube/index.html",
-    "precache-manifest.5eda07c1ab5aaf494d70bdc8b8f65843.js": "/fake-youtube/precache-manifest.5eda07c1ab5aaf494d70bdc8b8f65843.js",
-    "service-worker.js": "/fake-youtube/service-worker.js",
-    "static/css/main.6358ba25.chunk.css.map": "/fake-youtube/static/css/main.6358ba25.chunk.css.map",
-    "static/js/2.59b0d8aa.chunk.js.LICENSE.txt": "/fake-youtube/static/js/2.59b0d8aa.chunk.js.LICENSE.txt"
+    "main.css": "/react-fake-youtube/static/css/main.6358ba25.chunk.css",
+    "main.js": "/react-fake-youtube/static/js/main.3e2b7d70.chunk.js",
+    "main.js.map": "/react-fake-youtube/static/js/main.3e2b7d70.chunk.js.map",
+    "runtime-main.js": "/react-fake-youtube/static/js/runtime-main.9b3fff15.js",
+    "runtime-main.js.map": "/react-fake-youtube/static/js/runtime-main.9b3fff15.js.map",
+    "static/js/2.59b0d8aa.chunk.js": "/react-fake-youtube/static/js/2.59b0d8aa.chunk.js",
+    "static/js/2.59b0d8aa.chunk.js.map": "/react-fake-youtube/static/js/2.59b0d8aa.chunk.js.map",
+    "index.html": "/react-fake-youtube/index.html",
+    "precache-manifest.8319e1acbeebd901776b3c2bc4fb9b71.js": "/react-fake-youtube/precache-manifest.8319e1acbeebd901776b3c2bc4fb9b71.js",
+    "service-worker.js": "/react-fake-youtube/service-worker.js",
+    "static/css/main.6358ba25.chunk.css.map": "/react-fake-youtube/static/css/main.6358ba25.chunk.css.map",
+    "static/js/2.59b0d8aa.chunk.js.LICENSE.txt": "/react-fake-youtube/static/js/2.59b0d8aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b363be39.js",
+    "static/js/runtime-main.9b3fff15.js",
     "static/js/2.59b0d8aa.chunk.js",
     "static/css/main.6358ba25.chunk.css",
     "static/js/main.3e2b7d70.chunk.js"

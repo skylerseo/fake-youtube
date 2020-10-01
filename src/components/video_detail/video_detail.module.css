@@ -1,7 +1,34 @@
 .detail {
-  padding: 0.2em;
+  padding: 0.4em;
+}
+
+.video {
+  width: 100%;
+  height: 500px;
+  margin-bottom: 0.2em;
+}
+
+.title {
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin-bottom: 0.4em;
+}
+
+.channel {
+  color: rgb(53, 53, 53);
+  font-weight: 400;
+  margin-bottom: 0.4em;
 }
 
 .description {
+  color: rgb(53, 53, 53);
   white-space: pre-wrap;
+  margin-bottom: 0.6em;
+}
+
+@media screen and (max-width: 48rem) {
+  .video {
+    width: 100%;
+    height: 300px;
+  }
 }

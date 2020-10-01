@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "401dead19e46d39af3dc6ba07238da9d",
+    "revision": "400f077a4679119508774e8021851992",
     "url": "/fake-youtube/index.html"
   },
   {
